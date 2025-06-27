@@ -87,4 +87,12 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 * [Witbe](https://www.witbe.net/technology/qa-test-automation/) - Test automation for Smart TV applications
 
 ## Tools
-- To be added
+- [Tizen Studio](https://developer.samsung.com/smarttv/develop/tools/tizen-studio.html) - Development & debugging tool for Samsung Tizen apps
+- [Tizen TV](https://developer.samsung.com/smarttv/develop/tools/additional-tools/vscode-extension.html) - VSCode extension for Tizen apps
+- [webOS Studio](https://webostv.developer.lge.com/develop/tools/webos-studio-introduction) - VSCode extension for WebOS apps
+- [Roku tools](https://developer.roku.com/docs/developer-program/dev-tools/tools-overview.md) - Overview of official Roku tools
+
+## Emulators
+- [Tizen] - https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-emulator.html
+- [WebOS] - https://webostv.developer.lge.com/develop/tools/simulator-introduction
+- [Roku] - https://github.com/lvcabral/brs-engine

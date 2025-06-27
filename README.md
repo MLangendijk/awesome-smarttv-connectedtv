@@ -10,6 +10,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Video Players](#video-players)
     - [Open Source Players](#open-source-players)
     - [Commercial Players](#commercial-players)
+    - [Video analytics and monitoring](#video-analytics-and-monitoring)
 - [Learning Resources](#learning-resources)
 - [Testing](#testing)
 - [Tools](#tools)
@@ -68,6 +69,11 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Wowza Flowplayer](https://flowplayer.com/) - Commercial video player with Smart TV support
 - [Prestoplay](https://castlabs.com/prestoplay/) - Commercial video player with Smart TV support
 - [HISPlayer](https://hisplayer.com/) - Commercial video player with Smart TV support
+
+### Video analytics & monitoring
+- [Conviva](https://www.conviva.com/) - Realtime video analytics and monitoring
+- [MediaMelon](https://mediamelon.com/) - Video streaming analytics
+- [Mux Data](https://www.mux.com/data) - Scalable video data & QoE
 
 ## Learning Resources
 * [Smart TV blogs](https://medium.com/@mlangendijk/list/smarttv-efbb80a6a0c1) - Collection of Smart TV related blogs

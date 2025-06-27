@@ -9,7 +9,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Focus Libraries](#focus-libraries)
 - [Video Players](#video-players)
     - [Open Source Players](#open-source-players)
-    - [Third Party Players](#third-party-players)
+    - [Commercial Players](#commercial-players)
 - [Learning Resources](#learning-resources)
 - [Testing](#testing)
 - [Tools](#tools)
@@ -58,7 +58,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Dash.js](https://github.com/Dash-Industry-Forum/dash.js) - Open-source JavaScript library for playing MPEG-DASH streams
 - [RX Player](https://github.com/canalplus/rx-player) - Open-source player from Canal+ for Dash and MSS
 
-### Third Party Players
+### Commercial Players
 - [Dolby OptiView](https://optiview.dolby.com/) - Commercial video player with Smart TV support, formerly known as THEOplayer
 - [Bitmovin](https://bitmovin.com/) - Commercial video player with Smart TV support
 - [Bradmax](https://bradmax.com/site/en/) - Commercial video player with Smart TV support

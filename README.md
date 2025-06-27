@@ -2,6 +2,17 @@
 Your guide to the best resources, tools, and libraries for Smart TV and Connected TV development.
 
 ## Contents
+- [Platform documentation](#platform-documentation)
+    - [STB documentation](#stb-documentation)
+- [Frameworks](#frameworks)
+- [Framework Libraries](#framework-libraries)
+- [Focus Libraries](#focus-libraries)
+- [Video Players](#video-players)
+    - [Open Source Players](#open-source-players)
+    - [Third Party Players](#third-party-players)
+- [Learning Resources](#learning-resources)
+- [Testing](#testing)
+- [Tools](#tools)
 
 ## Platform documentation
 - [Android TV](https://developer.android.com/tv)
@@ -22,7 +33,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - To be added
 
 ## Frameworks
-- [React Native](https://reactnative.dev/) - Support for mobile, Android TV, Apple TV & Smart TV platforms through React Native for Web.
+- [React Native](https://reactnative.dev/) - Support for mobile, Android TV, Apple TV & Smart TV platforms through React Native for Web
 - [Flutter](https://flutter.dev/) - Framework with unofficial or third-party support for TV platforms
 - [LightningJS](https://lightningjs.io/) - Dedicated framework for building TV applications
 

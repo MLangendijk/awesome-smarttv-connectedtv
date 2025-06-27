@@ -96,6 +96,6 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Roku tools](https://developer.roku.com/docs/developer-program/dev-tools/tools-overview.md) - Overview of official Roku tools
 
 ## Emulators
-- [Tizen] - https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-emulator.html
-- [WebOS] - https://webostv.developer.lge.com/develop/tools/simulator-introduction
-- [Roku] - https://github.com/lvcabral/brs-engine
+- [Tizen](https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-emulator.html) - Official Tizen emulator
+- [WebOS](https://webostv.developer.lge.com/develop/tools/simulator-introduction) - Official WebOS emulator
+- [Roku](https://github.com/lvcabral/brs-engine) - Open source Roku emulator

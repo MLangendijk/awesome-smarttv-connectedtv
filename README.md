@@ -29,6 +29,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Whale TV](https://developer.whaletv.com/)
 - [Chromecast](https://developers.google.com/cast/)
 - [Smart TV Alliance](https://www.smarttv-alliance.org/)
+- [Microsoft Xbox](https://learn.microsoft.com/en-us/windows/uwp/apps-for-xbox/development-options)
 
 ### STB documentation
 - To be added

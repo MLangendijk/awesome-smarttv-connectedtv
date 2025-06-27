@@ -41,6 +41,9 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Flutter for Tizen](https://github.com/flutter-tizen/flutter-tizen) - Flutter support for Tizen
 - [React Native for TV](https://github.com/react-native-tvos/react-native-tvos) - Well-maintained React Native library for TV applications
 - [React Native for Web](https://github.com/necolas/react-native-web) - Build web-based Smart TV applications with React Native for Web
+- [Lightning - Blits](https://github.com/lightning-js/blits) - Lightning implementation using the Blits framework
+- [Lightning - SolidJS](https://github.com/lightning-tv/solid) - Lightning implementation using the SolidJS framework
+
 
 ## Focus Libraries
 - [React Native](https://github.com/bamlab/react-tv-space-navigation) - React Native library for spatial navigation

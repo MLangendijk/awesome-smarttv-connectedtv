@@ -14,6 +14,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Learning Resources](#learning-resources)
 - [Testing](#testing)
 - [Tools](#tools)
+- [Emulators](#emulators)
 
 ## Platform documentation
 - [Android TV](https://developer.android.com/tv)
@@ -26,13 +27,15 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [TitanOS](https://docs.titanos.tv/)
 - [TiVo](https://developers.tivo.com/)
 - [VIDAA](https://www.vidaa.com)
+- [Vizio](https://developer.vizio.com/)
 - [Whale TV](https://developer.whaletv.com/)
 - [Chromecast](https://developers.google.com/cast/)
 - [Smart TV Alliance](https://www.smarttv-alliance.org/)
 - [Microsoft Xbox](https://learn.microsoft.com/en-us/windows/uwp/apps-for-xbox/development-options)
 
 ### STB documentation
-- To be added
+- [Comcast](https://docs.developer.comcast.com/)
+- [Amino](https://help.amino.tv/hc/en-us/categories/34584272781465-Developer-Resources)
 
 ## Frameworks
 - [React Native](https://reactnative.dev/) - Support for mobile, Android TV, Apple TV & Smart TV platforms through React Native for Web

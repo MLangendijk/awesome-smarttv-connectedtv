@@ -75,6 +75,7 @@ Your guide to the best resources, tools, and libraries for Smart TV and Connecte
 - [Conviva](https://www.conviva.com/) - Realtime video analytics and monitoring
 - [MediaMelon](https://mediamelon.com/) - Video streaming analytics
 - [Mux Data](https://www.mux.com/data) - Scalable video data & QoE
+- [Bitmovin Analytics](https://bitmovin.com/video-analytics/) - Realtime video analytics and monitoring
 
 ## Learning Resources
 * [Smart TV blogs](https://medium.com/@mlangendijk/list/smarttv-efbb80a6a0c1) - Collection of Smart TV related blogs
